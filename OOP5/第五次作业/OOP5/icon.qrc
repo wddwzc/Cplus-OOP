@@ -1,0 +1,6 @@
+<RCC>
+    <qresource lang="knight1" prefix="/image">
+        <file alias="knight">knight.jpg</file>
+        <file alias="logo">logo.png</file>
+    </qresource>
+</RCC>
